@@ -24,16 +24,16 @@ and this is the second line<p>
 
 Bold
 
-I just love **bold text**.
-I just love __bold text__
-Love**is**bold
+<p>I just love **bold text**.<p>
+<p>I just love __bold text__<p>
+<P>Love**is**bold<P>
 
-Italicized text is the *cat's meow*         \\ta certo mas não funciona a joça
-Italicized text is the _cat's meow_.
-A*cat*meow
+<p>Italicized text is the *cat's meow*<p>        <br>\\ta certo mas não funciona a joça
+<p>Italicized text is the _cat's meow_.<p>
+<p>A*cat*meow<p>
 
-This text is ***really important***
-This text is __really important__
+<p>This text is ***really important***<p>
+<p>This text is __really important__<p>
 
 
 
