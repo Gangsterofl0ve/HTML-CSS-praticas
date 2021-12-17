@@ -24,9 +24,9 @@ and this is the second line<p>
 
 Bold
 
-<p>I just love **bold text**.<p>
-<p>I just love __bold text__<p>
-<P>Love**is**bold<P>
+I just love **bold text**. <br>
+I just love __bold text__ <br>
+Love**is**bold <br>
 
 <p>Italicized text is the *cat's meow*<p>        <br>\\ta certo mas não funciona a joça
 <p>Italicized text is the _cat's meow_.<p>
