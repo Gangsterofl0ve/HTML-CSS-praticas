@@ -22,6 +22,19 @@
 <p>This is the frist line.<br>
 and this is the second line<p>
 
+Bold
+
+I just love **bold text**.
+I just love __bold text__
+Love**is**bold
+
+Italicized text is the *cat's meow*         \\ta certo mas não funciona a joça
+Italicized text is the _cat's meow_.
+A*cat*meow
+
+This text is ***really important***
+This text is __really important__
+
 
 
 
